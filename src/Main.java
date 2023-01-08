@@ -6,7 +6,6 @@ public class Main {
         System.out.println(am2.getRadius());
         System.out.println(am.getArea());
         System.out.println(am2.getArea());
-        System.out.println("Nai thúi");
 
     }
 }
